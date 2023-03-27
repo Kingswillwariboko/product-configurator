@@ -48,3 +48,9 @@ h1 {
   width: 90px !important;
   height: 90px !important;
 }
+
+.button{
+  position: absolute;
+  top: 12%;
+  left: 50%;
+}
