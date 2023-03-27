@@ -83,7 +83,6 @@ function Picker() {
     <div>
       <HexColorPicker className="picker" color={snap.items[snap.current]} onChange={(color) => (state.items[snap.current] = color)} />
       <h1>{snap.current}</h1>
-
       <div className="button">
        <ARButton />
       </div>
